@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "jhipsterTrialApp",
+    "packageName": "io.github.seanmatabs.application",
+    "packageFolder": "io/github/seanmatabs/application",
+    "serverPort": 8081,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "ODBkNzgxNTdkMTJmZjExZWRiYzI5OGVmNTA1Y2IwNzk2MmYwNzI1OTM2Mjc2NWJhNjQ1OWRmZjAyMGY3NWY5MmEyMWI0YzQzMmMzYjg3ODYyMGFhNTk3YWFmOGM5MzVmYWViYTZjZmU3NmU3MzhjNGM4NmRhOTQyZWVhMmRmMGU=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "seanmatabs",
+  "repository-name": "jhipster-sample-application"
+}
